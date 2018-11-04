@@ -1,8 +1,7 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="1">
-            <File firstVisibleLine="63" xOffset="0" scrollWidth="650" startPos="0" endPos="1980" selMode="0" lang="Java" encoding="-1" filename="C:\Java\Task1\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java" />
-            <File firstVisibleLine="3" xOffset="0" scrollWidth="650" startPos="48" endPos="48" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java" />
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1010" startPos="1249" endPos="1256" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java" />
         </mainView>
         <subView activeIndex="0" />
     </Session>
