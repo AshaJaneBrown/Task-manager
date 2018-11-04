@@ -91,6 +91,7 @@ public class Task {
     public boolean isRepeated() {
         return isRepeated;
     }
+
     public int nextTimeAfter(int current) {
     /**
     * A method to define the next time when the task will be implemented
