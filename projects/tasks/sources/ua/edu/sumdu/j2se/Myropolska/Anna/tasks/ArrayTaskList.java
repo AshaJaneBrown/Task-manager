@@ -38,7 +38,7 @@ public class ArrayTaskList {
 
             }
         }
-        
+
         return incoming;
 
     }
