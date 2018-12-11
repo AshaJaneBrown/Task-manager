@@ -1,7 +1,12 @@
 <NotepadPlus>
     <Session activeView="0">
         <mainView activeIndex="0">
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1010" startPos="1249" endPos="1256" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java" />
+            <File firstVisibleLine="13" xOffset="0" scrollWidth="648" startPos="402" endPos="402" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java" />
+            <File firstVisibleLine="18" xOffset="0" scrollWidth="680" startPos="402" endPos="402" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java" />
+            <File firstVisibleLine="21" xOffset="0" scrollWidth="1040" startPos="1469" endPos="1469" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\tests\com\netcracker\eductr\tasks\tests\common\TaskListTest.java" />
+            <File firstVisibleLine="1" xOffset="0" scrollWidth="464" startPos="402" endPos="402" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java" />
+            <File firstVisibleLine="14" xOffset="0" scrollWidth="808" startPos="1265" endPos="1265" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\tests\com\netcracker\eductr\tasks\tests\common\IterableTest.java" />
+            <File firstVisibleLine="37" xOffset="0" scrollWidth="832" startPos="2197" endPos="2197" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\tests\com\netcracker\eductr\tasks\tests\common\EqualsTest.java" />
         </mainView>
         <subView activeIndex="0" />
     </Session>

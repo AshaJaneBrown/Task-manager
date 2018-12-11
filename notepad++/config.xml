@@ -95,6 +95,6 @@
     <!-- The History of opened files list -->
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" />
     <History nbMaxFile="15" inSubMenu="no" customLength="-1">
-        <File filename="C:\Java\java.course.dev\projects\tasks\style_warnings.txt" />
+        <File filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java" />
     </History>
 </NotepadPlus>
