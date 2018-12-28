@@ -1,12 +1,18 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="0">
-            <File firstVisibleLine="13" xOffset="0" scrollWidth="648" startPos="402" endPos="402" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java" />
-            <File firstVisibleLine="18" xOffset="0" scrollWidth="680" startPos="402" endPos="402" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java" />
+        <mainView activeIndex="10">
+            <File firstVisibleLine="147" xOffset="0" scrollWidth="648" startPos="4746" endPos="4746" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java" />
+            <File firstVisibleLine="16" xOffset="0" scrollWidth="680" startPos="515" endPos="515" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java" />
             <File firstVisibleLine="21" xOffset="0" scrollWidth="1040" startPos="1469" endPos="1469" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\tests\com\netcracker\eductr\tasks\tests\common\TaskListTest.java" />
-            <File firstVisibleLine="1" xOffset="0" scrollWidth="464" startPos="402" endPos="402" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java" />
+            <File firstVisibleLine="1" xOffset="0" scrollWidth="672" startPos="573" endPos="573" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java" />
             <File firstVisibleLine="14" xOffset="0" scrollWidth="808" startPos="1265" endPos="1265" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\tests\com\netcracker\eductr\tasks\tests\common\IterableTest.java" />
-            <File firstVisibleLine="37" xOffset="0" scrollWidth="832" startPos="2197" endPos="2197" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\tests\com\netcracker\eductr\tasks\tests\common\EqualsTest.java" />
+            <File firstVisibleLine="12" xOffset="0" scrollWidth="832" startPos="800" endPos="800" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\tests\com\netcracker\eductr\tasks\tests\common\EqualsTest.java" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="824" startPos="141" endPos="141" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java" />
+            <File firstVisibleLine="94" xOffset="0" scrollWidth="856" startPos="5172" endPos="5172" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\tests\com\netcracker\eductr\tasks\tests\T5_TasksTest.java" />
+            <File firstVisibleLine="17" xOffset="0" scrollWidth="824" startPos="1761" endPos="1761" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\tests\com\netcracker\eductr\tasks\tests\T5_TaskTest.java" />
+            <File firstVisibleLine="15" xOffset="0" scrollWidth="960" startPos="888" endPos="836" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java" />
+            <File firstVisibleLine="56" xOffset="0" scrollWidth="1104" startPos="1913" endPos="1913" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java" />
+            <File firstVisibleLine="43" xOffset="0" scrollWidth="680" startPos="2387" endPos="2387" selMode="0" lang="Java" encoding="-1" filename="C:\Java\java.course.dev\projects\tasks\tests\com\netcracker\eductr\tasks\tests\T6_TaskIOTest.java" />
         </mainView>
         <subView activeIndex="0" />
     </Session>
